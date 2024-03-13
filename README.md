@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
-<h3 align="center">A Machine Learning and Deep Learning Engineer from Egypt.</h3>
+<h3 align="center">A Machine Learning and Deep Learning Engineer.</h3>
 
 - 🔭 I’m a senior at **faculty of electronic engineering**
 
