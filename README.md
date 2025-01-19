@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Ahmed Elfikey </h1>
 <h3 align="center">A Machine Learning and Deep Learning Engineer.</h3>
 
-- 🔭 I’m a senior at **faculty of electronic engineering**
+- 🔭 I worked as Data Science and Python  Instructor at the Digital Egypt Youth Initiative.
+- 🔭 I am a recent graduate from the Faculty of Electronic Engineering.
 
-- 🌱 I’m currently learning **ML and DL**
+- 🌱 I have a good knowledge and experience in Natural Language processing.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
